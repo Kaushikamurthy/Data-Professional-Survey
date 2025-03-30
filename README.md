@@ -10,4 +10,4 @@ This **Power BI dashboard** analyzes insights from a survey of **data profession
 - **Demographics**: **Age, gender, education, and country distribution**.  
 
 ### **Purpose**  
-The dashboard visualizes **key trends**, helping **aspiring and current data professionals** understand **industry patterns and expectations**. 🚀  
+The dashboard visualizes **key trends**, helping **aspiring and current data professionals** understand **industry patterns and expectations**.   
